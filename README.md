@@ -4,10 +4,9 @@
 
 ### 반갑습니다!! 👋
 
--🌱 현재 깨달아 가고있는 주니어 데이터 엔지니어 입니다.
+-🌱 현재 장고와 데이터엔지니어링을 학습하고 있습니다.
 
--⚡ 다양한 도구들에 대해서 공부를 진행하고 있습니다.
-
+-⚡ python에 대해서 깊게 이해하려하고, 클린코드를 작성하기 위해 학습하고 있습니다.
 
 - 언어 및 도구
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
