@@ -9,13 +9,24 @@
 -⚡ 최근에는 Go에 관심이 생겨 Go에 대한 학습을 진행하며, 이를 어떻게 적용할지에 대해서 고민하고있습니다.
 
 - 백엔드
-<img src="https://img.shields.io/badge/Django-181717?style=plastic&logo=Django&logoColor=white"/>           <img src="https://img.shields.io/badge/GO-3776AB?style=plastic&logo=GO&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-181717?style=plastic&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/GO-3776AB?style=plastic&logo=GO&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fastapi-181717?style=plastic&logo=Fastapi&logoColor=white"/>
 
 - 프론트엔드
+
 <img src="https://img.shields.io/badge/React-4479A1?style=plastic&logo=React&logoColor=white"/>
 
+
+- 데이터베이스
+  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4479A1?style=plastic&logo=DynamoDB&logoColor=white"/>
+
+
 - 인프라,CI/CD
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
