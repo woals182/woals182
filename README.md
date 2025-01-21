@@ -10,6 +10,7 @@
 
 - 언어 및 도구
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-181717?style=plastic&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AWS&logoColor=white"/>
