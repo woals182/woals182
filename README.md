@@ -4,14 +4,18 @@
 
 ### 반갑습니다!! 👋
 
--🌱 현재 장고와 데이터엔지니어링을 학습하고 있습니다.
+-🌱 현재 장고와 리액트를 이용한 풀스택 개발을 현업에서 진행하고 있습니다.
 
--⚡ python에 대해서 깊게 이해하려하고, 클린코드를 작성하기 위해 학습하고 있습니다.
+-⚡ 최근에는 Go에 관심이 생겨 Go에 대한 학습을 진행하며, 이를 어떻게 적용할지에 대해서 고민하고있습니다.
 
-- 언어 및 도구
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-181717?style=plastic&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+- 백엔드
+<img src="https://img.shields.io/badge/Django-181717?style=plastic&logo=Django&logoColor=white"/>           <img src="https://img.shields.io/badge/GO-3776AB?style=plastic&logo=GO&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastapi-181717?style=plastic&logo=Fastapi&logoColor=white"/>
+
+- 프론트엔드
+<img src="https://img.shields.io/badge/React-4479A1?style=plastic&logo=React&logoColor=white"/>
+
+- 인프라,CI/CD
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
